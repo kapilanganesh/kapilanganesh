@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Kapilan Ganesh (@kapilanganesh)
+- 📫 I’m an undergraduate electrical engineering student at UCSD, class of 2023.
+- 👀 I'm interested in the fields of dynamic control systems, power systems, and signal processing.
+- 🌱 I’m currently learning **_MATLAB & Simulink_** and **_C_** for EE purposes and **_Unity_** for game development projects with friends.
